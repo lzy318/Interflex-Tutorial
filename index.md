@@ -1,8 +1,7 @@
-## Interflex Tutorial
+title: [Interflex Tutorial]
+description: [Performs diagnostic tests of multiplicative interaction models and plots non-linear marginal effects of a treatment on an outcome across different values of a moderator.]
 
-Performs diagnostic tests of multiplicative interaction models and plots non-linear marginal effects of a treatment on an outcome across different values of a moderator.
-
-**Authors**: Jens Hainmueller, Jonathan Mummolo, Yiqing Xu and Ziyi Liu(maintainer)
+**Authors**: Jens Hainmueller, Jonathan Mummolo, Yiqing Xu and Ziyi Liu (maintainer)
 
 Please email all comments/questions to zyliu2020@uchicago.edu.
 
