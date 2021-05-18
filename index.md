@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Interflex Tutorial
 
 You can use the [editor on GitHub](https://github.com/lzy318/interflex_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
