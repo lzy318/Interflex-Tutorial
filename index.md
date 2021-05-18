@@ -17,19 +17,18 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 
 **Version**: 1.2.6 (major syntax change)
 
-### Introduction
+## Table of contents
 
-Contents
-Installation
-Simulated examples
-Raw plots (and GAM plots)
-Binning estimates
-Kernel estimates
-Fixed effects
-Multiple (>2) treatment arms
-Predicted outcomes
-Testing the difference in treatment effects
-Past version update notes
+- [Features](#Header 1)
+- [Sponsors 🏆](#Header 2)
+- [**Build your website in 3 steps**](#Header 3)
+- [Plans](#plans)
+- [Add your own content](#add-your-own-content)
+- [Customizing parameters for each page](#customizing-parameters-for-each-page)
+- [Supported parameters](#supported-parameters)
+- [Featured users (success stories!)](#featured-users-success-stories)
+- [FAQ and support](#faq-and-support)
+- [Credits and contributions](#credits)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -39,9 +38,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2 
+# Header 2 
 
-### Header 3
+# Header 3
 
 - Bulleted
 - List
