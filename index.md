@@ -6,6 +6,12 @@ Performs diagnostic tests of multiplicative interaction models and plots non-lin
 
 Please email all comments/questions to zyliu2020@uchicago.edu.
 
+**Reference**: How Much Should We Trust Estimates from Multiplicative Interaction Models? Simple Tools to Improve Empirical Practice. Political Analysis, Vol. 27, Iss. 2, April 2019, pp. 163–192.
+
+**Date**: May 12, 2021
+
+**Version**: 1.2.6 (major syntax change)
+
 ### Introduction
 
 
