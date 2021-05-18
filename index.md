@@ -1,10 +1,11 @@
 ## Interflex Tutorial
 
-You can use the [editor on GitHub](https://github.com/lzy318/interflex_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Authors**: Jens Hainmueller, Jonathan Mummolo, Yiqing Xu and Ziyi Liu(maintainer)
+Please email all comments/questions to zyliu2020@uchicago.edu
 
 ### Markdown
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
