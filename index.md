@@ -1,7 +1,8 @@
 ## Interflex Tutorial
 
 **Authors**: Jens Hainmueller, Jonathan Mummolo, Yiqing Xu and Ziyi Liu(maintainer)
-Please email all comments/questions to zyliu2020@uchicago.edu
+
+Please email all comments/questions to [zyliu2020@uchicago.edu]
 
 ### Markdown
 
