@@ -1,5 +1,8 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
+title: Interflex Tutorial
+description: Producing “flexible” marginal effect estimates with multiplicative interaction models.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+github:
+  CRAN: https://cran.r-project.org/web/packages/interflex/index.html
+  Github: https://github.com/xuyiqing/interflex
