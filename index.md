@@ -18,6 +18,17 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 
 ### Introduction
 
+Contents
+Installation
+Simulated examples
+Raw plots (and GAM plots)
+Binning estimates
+Kernel estimates
+Fixed effects
+Multiple (>2) treatment arms
+Predicted outcomes
+Testing the difference in treatment effects
+Past version update notes
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
