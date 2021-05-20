@@ -24,17 +24,17 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 ## Table of contents
 
 - [**Installation**](##Installation)
-- [**Raw Plot**](##Raw Plot)
-- [**GAM Plot**](##GAM Plot)
-- [**Linear Estimator**](##Linear Estimator)
-  - [**Uncertainty Estimates**](###Uncertainty Estimates)
-- [**Binning Estimator**](##Binning Estimator)
-- [**Kernel Estimator**](##Kernel Estimator)
-- [**Support for GLM Models**](##Support for GLM Models)
-- [**Fully Moderated Model**](##Fully Moderated Model)
-- [**Flexible Visualization Options**](##Flexible Visualization Options)
-- [**Estimate the Difference in Treatment Effects**](##Estimate the Difference in Treatment Effects)
-- [**Past version update notes**](##Past version update notes)
+- [**Raw Plot**](##Raw-Plot)
+- [**GAM Plot**](##GAM-Plot)
+- [**Linear Estimator**](##Linear-Estimator)
+  - [**Uncertainty Estimates**](###Uncertainty-Estimates)
+- [**Binning Estimator**](##Binning-Estimator)
+- [**Kernel Estimator**](##Kernel-Estimator)
+- [**Support for GLM Models**](##Support-for-GLM-Models)
+- [**Fully Moderated Model**](##Fully-Moderated-Model)
+- [**Flexible Visualization Options**](##Flexible-Visualization-Options)
+- [**Estimate the Difference in Treatment Effects**](##Estimate-the-Difference-in-Treatment-Effects)
+- [**Past version update notes**](##Past-version-update-notes)
 
 ## Installation
 
