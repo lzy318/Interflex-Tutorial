@@ -2,7 +2,9 @@
 layout: default
 ---
 
-Performs diagnostic tests of multiplicative interaction models and plots non-linear marginal effects of a treatment on an outcome across different values of a moderator.
+**Summary**
+
+This package performs diagnostic tests of multiplicative interaction models and plots non-linear marginal effects of a treatment on an outcome across different values of a moderator, supports both of linear models and GLM models.
 
 **Authors**: Jens Hainmueller, Jonathan Mummolo, Yiqing Xu and Ziyi Liu (maintainer)
 
@@ -18,7 +20,6 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 - [Linear Models](http://yiqingxu.org/software/interaction/RGuide.html)
 - [GLM Models](http://yiqingxu.org/software/interaction/RGuide_glm.html)
 
-# Summary
 
 
 ## Table of contents
