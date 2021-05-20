@@ -38,6 +38,17 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 
 ## Installation
 
+You can install the interflex package from **CRAN**:
+```
+install.packages('interflex', type = "source", repos = 'http://cran.us.r-project.org') 
+```
+or you can install the up-to-date development version from **Github**:
+```
+install.packages('devtools', repos = 'http://cran.us.r-project.org') # if not already installed
+devtools::install_github('xuyiqing/interflex')
+```
+
+
 ## Raw Plot
 
 ## GAM Plot
