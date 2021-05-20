@@ -24,6 +24,7 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 ## Table of contents
 
 - [**Installation**](##Installation)
+- [**Simulated Datasets**](##Simulated-Datasets)
 - [**Raw Plot**](##Raw-Plot)
 - [**GAM Plot**](##GAM-Plot)
 - [**Linear Estimator**](##Linear-Estimator)
@@ -56,6 +57,9 @@ devtools::install_github('xuyiqing/interflex')
 
 3. (old) Mac users who encounter “-lgfortran” or “-lquadmath” error during installation, please check out the solution here. Typing the following two lines of code in your Terminal should solve this problem.
 
+## Simulated Datasets
+
+Now let’s load the package as well as four simulated toy datasets:
 
 ## Raw Plot
 
