@@ -61,7 +61,7 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 ## Past version update notes
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing.
 
 
 ```markdown
