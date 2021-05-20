@@ -21,7 +21,7 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 - [GLM Models](http://yiqingxu.org/software/interaction/RGuide_glm.html)
 
 
-## Table of contents
+# Table of contents
 
 - [**Installation**](#Installation)
 - [**Simulated Datasets**](#Simulated-Datasets)
@@ -37,7 +37,7 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 - [**Estimate the Difference in Treatment Effects**](#Estimate-the-Difference-in-Treatment-Effects)
 - [**Past version update notes**](#Past-version-update-notes)
 
-## Installation
+# Installation
 
 You can install the interflex package from **CRAN**:
 ```r
@@ -57,7 +57,7 @@ devtools::install_github('xuyiqing/interflex')
 
 3. (old) Mac users who encounter “-lgfortran” or “-lquadmath” error during installation, please check out the solution here. Typing the following two lines of code in your Terminal should solve this problem.
 
-## Simulated Datasets
+# Simulated Datasets
 
 Now let’s load the package as well as four simulated toy datasets:
 ```r
@@ -65,27 +65,27 @@ library(interflex)
 data(interflex)
 ```
 
-## Raw Plot
+# Raw Plot
 
-## GAM Plot
+# GAM Plot
 
-## Linear Estimator
+# Linear Estimator
 
-### Uncertainty Estimates
+## Uncertainty Estimates
 
-## Binning Estimator
+# Binning Estimator
 
-## Kernel Estimator
+# Kernel Estimator
 
-## Support for GLM Models
+# Support for GLM Models
 
-## Fully Moderated Model
+# Fully Moderated Model
 
-## Flexible Visualization Options
+# Flexible Visualization Options
 
-## Estimate the Difference in Treatment Effects
+# Estimate the Difference in Treatment Effects
 
-## Past version update notes
+# Past version update notes
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing.
