@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Summary**
+## Summary
 
 This package performs diagnostic tests of multiplicative interaction models and plots flexible marginal effects of a treatment on an outcome across different values of a moderator, supporting linear models and GLM models.
 
