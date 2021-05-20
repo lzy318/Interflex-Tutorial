@@ -48,6 +48,14 @@ install.packages('devtools', repos = 'http://cran.us.r-project.org') # if not al
 devtools::install_github('xuyiqing/interflex')
 ```
 
+**Note:**
+
+1. Mac users who have updated to MacOS Big Sur will likely encounter compilation problems. See [here](http://yiqingxu.org/public/BigSurError.pdf) for a potential solution.
+
+2. (old) Mac users who encounter clang: error: unsupported option ‘-fopenmp’, please consider (1) updating your R and/or (2) installing new R macro tools from Github.
+
+3. (old) Mac users who encounter “-lgfortran” or “-lquadmath” error during installation, please check out the solution here. Typing the following two lines of code in your Terminal should solve this problem.
+
 
 ## Raw Plot
 
