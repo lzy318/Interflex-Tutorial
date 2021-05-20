@@ -15,11 +15,7 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 
 **Date**: May 12, 2021
 
-**Version**: 1.2.6 (major syntax change)
-
-[**CRAN**](https://cran.r-project.org/web/packages/interflex/index.html)
-
-[**Github**](https://github.com/xuyiqing/interflex)
+**Version**: 1.2.6 (major syntax change) [**CRAN**](https://cran.r-project.org/web/packages/interflex/index.html) [**Github**](https://github.com/xuyiqing/interflex)
 
 **Users Guide Markdown**
 - [Linear Models](http://yiqingxu.org/software/interaction/RGuide.html)
