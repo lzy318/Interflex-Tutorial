@@ -21,19 +21,44 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 - [GLM Models](http://yiqingxu.org/software/interaction/RGuide_glm.html)
 
 
-
 ## Table of contents
 
-- [Features](#Header 1)
-- [Sponsors 🏆](#Header 2)
-- [**Build your website in 3 steps**](#Header 3)
-- [Plans](#plans)
-- [Add your own content](#add-your-own-content)
-- [Customizing parameters for each page](#customizing-parameters-for-each-page)
-- [Supported parameters](#supported-parameters)
-- [Featured users (success stories!)](#featured-users-success-stories)
-- [FAQ and support](#faq-and-support)
-- [Credits and contributions](#credits)
+- [**Installation**](##Installation)
+- [**Raw Plot**](##Raw Plot)
+- [**GAM Plot**](##GAM Plot)
+- [**Linear Estimator**](##Linear Estimator)
+  - [**Uncertainty Estimates**](###Uncertainty Estimates)
+- [**Binning Estimator**](##Binning Estimator)
+- [**Kernel Estimator**](##Kernel Estimator)
+- [**Support for GLM Models**](##Support for GLM Models)
+- [**Fully Moderated Model**](##Fully Moderated Model)
+- [**Flexible Visualization Options**](##Flexible Visualization Options)
+- [**Estimate the Difference in Treatment Effects**](##Estimate the Difference in Treatment Effects)
+- [**Past version update notes**](##Past version update notes)
+
+## Installation
+
+## Raw Plot
+
+## GAM Plot
+
+## Linear Estimator
+
+### Uncertainty Estimates
+
+## Binning Estimator
+
+## Kernel Estimator
+
+## Support for GLM Models
+
+## Fully Moderated Model
+
+## Flexible Visualization Options
+
+## Estimate the Difference in Treatment Effects
+
+## Past version update notes
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
