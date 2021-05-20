@@ -20,7 +20,6 @@ Please email all comments/questions to zyliu2020@uchicago.edu.
 - [Linear Models](http://yiqingxu.org/software/interaction/RGuide.html)
 - [GLM Models](http://yiqingxu.org/software/interaction/RGuide_glm.html)
 
-
 # Table of contents
 
 - [**Installation**](#Installation)
