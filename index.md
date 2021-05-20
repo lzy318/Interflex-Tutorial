@@ -60,6 +60,10 @@ devtools::install_github('xuyiqing/interflex')
 ## Simulated Datasets
 
 Now let’s load the package as well as four simulated toy datasets:
+```r
+library(interflex)
+data(interflex)
+```
 
 ## Raw Plot
 
